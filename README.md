@@ -2,12 +2,11 @@
 ## Here's my Github profile where I usualy post the exercises from courses I've done/I'm doing and some projects.
 
 ## Skills
-<div>
+<p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nathanchincowitz&show_icons=true&include_all_commits=true&theme=highcontrast&rank_icon=github">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanchincowitz&layout=compact&langs_count=8&theme=highcontrast">
-</div>
-<img src="https://skillicons.dev/icons?i=java,py,vscode,windows,js,html"/>
-
+  <br><img src="https://skillicons.dev/icons?i=java,py,vscode,windows,js,html"/>
+</p>
 
 
 
