@@ -3,8 +3,8 @@
 
 ## Skills
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nathanchincowitz&show_icons=true&include_all_commits=true&theme=highcontrast&rank_icon=github">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanchincowitz&layout=compact&langs_count=8&theme=highcontrast">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nathanchincowitz&show_icons=true&include_all_commits=true&theme=highcontrast&rank_icon=github">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanchincowitz&layout=compact&langs_count=8&theme=highcontrast">
 </div>
 <img src="https://skillicons.dev/icons?i=java,py,vscode,windows,js,html"/>
 
