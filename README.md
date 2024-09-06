@@ -7,7 +7,7 @@
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      height=160 align="top"
+      height=160 align="center"
       src="https://github-readme-stats.vercel.app/api?username=nathanchincowitz&hide=prs,contribs&show_icons=true&include_all_commits=true&theme=highcontrast&rank_icon=github&card_width=270"
       />
   </a>
@@ -18,7 +18,7 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img
       height=160
-      align="top"
+      align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanchincowitz&layout=compact&langs_count=8&card_width=100&theme=highcontrast"
     />
   </a>
