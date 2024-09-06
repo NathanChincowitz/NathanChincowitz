@@ -3,12 +3,13 @@
 
 ## Skills
 <p align="left">
-
-  <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=nathanchincowitz&show_icons=true&include_all_commits=true&theme=highcontrast&rank_icon=github">
   <img height="150em" src="https://skillicons.dev/icons?i=java,py,js&perline=1"/>
+  <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=nathanchincowitz&show_icons=true&include_all_commits=true&theme=highcontrast&rank_icon=github">
+  
   <br>
-  <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanchincowitz&layout=compact&langs_count=8&theme=highcontrast">
   <img height="150em" src="https://skillicons.dev/icons?i=vscode,windows,html&perline=1"/>
+  <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanchincowitz&layout=compact&langs_count=8&theme=highcontrast">
+  
 
 </p>
 
