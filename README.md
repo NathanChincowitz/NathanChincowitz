@@ -6,8 +6,8 @@
 ## Studies
 #### In college for Systems Analysis and Development.<br> I'm also in the 1000Devs Johnson & Johnson project, learning Java and practing Softskills.
 ## Contact <br>
-<a href ="mailto:nathanchincowitz+linedin@gmail.com">[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)</a>
-<a href="https://github.com/NathanChincowitz" target="_blank">[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)</a>
+<a href ="mailto:nathanchincowitz+linedin@gmail.com">![My Skills](https://skillicons.dev/icons?i=gmail)</a>
+<a href="https://github.com/NathanChincowitz" target="_blank">![My Skills](https://skillicons.dev/icons?i=github)</a>
 <a href="https://www.linkedin.com/in/nathan-chincowitz/en" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="45"/></a>
 
 
