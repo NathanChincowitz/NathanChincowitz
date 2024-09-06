@@ -19,7 +19,7 @@
     <img
       height=160
       align="top"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanchincowitz&layout=compact&langs_count=8&card_width=150&theme=highcontrast"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanchincowitz&layout=compact&langs_count=8&card_width=100&theme=highcontrast"
     />
   </a>
 </p>
