@@ -3,8 +3,9 @@
 
 ## Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,vscode,windows,js,html&perline=2"/>
+
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nathanchincowitz&show_icons=true&include_all_commits=true&theme=highcontrast&rank_icon=github&card_width=270">
+  <img src="https://skillicons.dev/icons?i=java,py,vscode,windows,js,html&perline=2"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanchincowitz&layout=compact&langs_count=8&theme=highcontrast&card_width=270">
 
 </p>
