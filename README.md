@@ -2,28 +2,13 @@
 ## Here's my Github profile where I usualy post the exercises from courses I've done/I'm doing and some projects.
 
 ## Skills
-  
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height=160 align="center"
-      src="https://github-readme-stats.vercel.app/api?username=nathanchincowitz&hide=prs,contribs&show_icons=true&include_all_commits=true&theme=highcontrast&rank_icon=github&card_width=270"
-      />
-  </a>
-
-  
-  </a>
-  
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img
-      height=160
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanchincowitz&layout=compact&langs_count=8&card_width=300&theme=highcontrast"
-    />
-  </a>
-</p>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanchincowitz&show_icons=true&include_all_commits=true&theme=highcontrast&rank_icon=github">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanchincowitz&layout=compact&langs_count=8&theme=highcontrast">
+</div>
 <img src="https://skillicons.dev/icons?i=java,py,vscode,windows,js,html"/>
-<img src="(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)">
+
+
 
 
 ## Studies
