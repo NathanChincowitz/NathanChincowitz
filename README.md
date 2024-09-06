@@ -2,9 +2,8 @@
 ## Here's my Github profile where I usualy post the exercises from courses I've done/I'm doing and some projects.
 
 ## Skills
+  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,py,vscode,windows,js,html"/><br>
-
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       height=160 align="center"
@@ -19,11 +18,11 @@
     <img
       height=160
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanchincowitz&layout=compact&langs_count=8&card_width=100&theme=highcontrast"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanchincowitz&layout=compact&langs_count=8&card_width=300&theme=highcontrast"
     />
   </a>
 </p>
-
+<img src="https://skillicons.dev/icons?i=java,py,vscode,windows,js,html"/>
 <img src="(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)">
 
 
