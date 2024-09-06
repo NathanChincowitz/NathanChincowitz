@@ -3,7 +3,7 @@
 
 ## Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=java,py,vscode,windows,js,html&perline=2"/>
+  <img src="https://skillicons.dev/icons?i=java,py,vscode,windows,js,html"/><br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
